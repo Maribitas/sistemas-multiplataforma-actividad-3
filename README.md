@@ -1,7 +1,9 @@
 **Sistemas Multiplataforma**
+
 **Actividad 3**
 
 **Consigna**
+
 Desarrollo de aplicación 
 
 Desarrollen una aplicación web simple que sea multiplataforma teniendo en cuenta lo siguiente: 
