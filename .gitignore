@@ -1,0 +1,61 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Editor config
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.idea/
+.vscode/
+.DS_Store
+
+# OS files
+Thumbs.db
+
+# Logs
+logs
+*.log
+
+# Vite
+dist/
+.vite/
+
+# Env files
+.env
+.env.*.local
+
+# Optional: Mac resource forks
+*.AppleDouble
+
+# Optional: VS Code settings
+.vscode/
+
+# Optional: JetBrains IDE settings
+.idea/
+
+# Optional: Mac specific
+.DS_Store
+
+# Optional: Linux specific
+*~
+
+# Optional: Coverage reports
+coverage/
+
+# Optional: eslint cache
+.eslintcache
+
+# Optional: local build output for GitHub Pages
+docs/
+
+# Optional: local environment files
+local.env
